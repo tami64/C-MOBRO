@@ -4,4 +4,4 @@ Number of run for each function :NumRun
 
 Row 41 :  Select functions to be evaluate
 
-Funal result will be saved in Results folder
+Final result will be saved in Results folder
